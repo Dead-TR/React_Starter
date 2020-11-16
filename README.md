@@ -1,1 +1,8 @@
-# React_Starter
+# Starter
+
+```
+npm install
+
+npm start
+
+```
